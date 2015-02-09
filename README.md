@@ -1,0 +1,2 @@
+# smartThings-Thermostat
+Thermostat Automation
